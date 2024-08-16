@@ -51,6 +51,18 @@ This section measures diversity within the organization:
 - **Employee Geo Location:** Geographical distribution of employees.
 - **Citizenship:** Representation of employees' citizenship.
 
+## 🧩 Dashboard
+For detailed visualizations and further exploration of our data, please visit our Tableau dashboard:
+
+🔰 [HR Analytics Dashboard in Tableau Public](https://public.tableau.com/views/HRAnalyticsDashboard_17146226712560/RecruitmentTurnoverDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Dashboard Page 1**
+![Dashboard Page 1](https://github.com/Latiifff/HR_Analytics_Dashboard/blob/main/HR%20Dashboard%201.png)
+**Dashboard Page 2**
+![Dashboard Page 2](https://github.com/Latiifff/HR_Analytics_Dashboard/blob/main/HR%20Dashboard%202.png)
+**Dashboard Page 3**
+![Dashboard Page 3](https://github.com/Latiifff/HR_Analytics_Dashboard/blob/main/HR%20Dashboard%203.png)
+
 ## 🚀 How to Use
 
 To get started with this project:
